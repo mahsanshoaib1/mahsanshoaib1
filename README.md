@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine learning, deep learning, and computational biology**
 
-- 📫 How to reach me **mahsanshoaib@protonmail.com**
+- 📫 How to reach me **mahsanshoaib1@gmail.com**
 
 - ⚡ Fun fact **An athlete**
 
