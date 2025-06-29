@@ -1,104 +1,116 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ahsan Shoaib</h1>
-<h3 align="center">Aspiring Computational Biologist | AI Enthusiast | Drug Discovery Explorer</h3>
+<h3 align="center">Bioinformatician | AI Researcher | Drug Discovery Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahsanshoaib1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-🎓 **Currently:**  
-Bachelor's student of **Bioinformatics & Artificial Intelligence** at *Government College University Faisalabad, Pakistan* (2019–2025).  
-Passionate about solving real-world biomedical problems through data-driven approaches.
-
-💡 **Research Interests:**  
-Drug Discovery | Computational Biology | AI in Healthcare | Genomics & Transcriptomics | Multi-Omics Integration
-
----
-
-### 🔬 Ongoing Projects & Research
-
-- 🧬 **Subunit Vaccine Design Against *Leishmania donovani***  
-  Designed a multi-epitope vaccine using reverse vaccinology approaches and immune simulation tools.
-
-- 🧠 **PRIORNET Framework**  
-  Developed a deep learning model integrating SNP prioritization and protein–protein interaction networks to improve genomic trait prediction.
-
-- 🔭 **Research Intern**  
-  Working at *Integrative Omics and Molecular Modeling Lab* (GCUF) — applying AI techniques to bioinformatics problems.
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
+<p align="center">
   <a href="mailto:mahsanshoaib1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammadahsanshoaib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/mahsanshoaib" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://kaggle.com/mahsanshoaib" target="_blank"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle" /></a>
-  <a href="https://www.youtube.com/c/bioalgofrontiers" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://www.linkedin.com/in/muhammadahsanshoaib/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mahsanshoaib"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://kaggle.com/mahsanshoaib"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/bioalgofrontiers"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧰 Languages & Tools
+### 📄 Download My CV
+📥 [Click here to download (PDF)](https://github.com/mahsanshoaib1/mahsanshoaib1/blob/main/Ahsan_CV_BS.pdf)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3C5488?style=for-the-badge&logo=seaborn&logoColor=white" />
-</p>
+<details>
+<summary>📚 <strong>About Me</strong></summary>
 
-<p>
-  <img src="https://img.shields.io/badge/AutoDock-1D2D50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyMOL-56B4E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IEDB-3165A3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SwissProt-3D3D3D?style=for-the-badge" />
+- 🎓 Final year BS student in **Bioinformatics** at GCUF, Pakistan
+- 🤖 Fascinated by how **Artificial Intelligence** can revolutionize **healthcare and genomics**
+- 🧬 Love working on **vaccine design**, **genomic prediction**, and **protein-ligand modeling**
+- 🧠 Interested in **Neurobiology**, **Systems Biology**, and **Computational Drug Discovery**
+
+</details>
+
+<details>
+<summary>🔬 <strong>Projects & Research</strong></summary>
+
+- 🧪 **Multi-epitope Subunit Vaccine for *Leishmania donovani***  
+  Designed a vaccine using immune informatics and reverse vaccinology pipelines.
+
+- 🧠 **PRIORNET: SNP + PPI Deep Learning Framework**  
+  Improved prediction of genomic traits using multilayer perceptrons and biological prior knowledge.
+
+- 🧬 **Intern @ Integrative Omics & Molecular Modeling Lab (IOMML)**  
+  Contributing to AI-driven solutions in structural bioinformatics and molecular modeling.
+
+</details>
+
+<details>
+<summary>🛠️ <strong>Languages & Tools</strong></summary>
+
+**Languages:**  
+Python • R • C++ • Bash • SQL • HTML • JavaScript
+
+**AI/ML Libraries:**  
+PyTorch • TensorFlow • OpenCV • scikit-learn • Pandas • Seaborn
+
+**Bioinformatics Tools:**  
+AutoDock Vina • PyMOL • ExPASy • ProtParam • IEDB • PDBsum • Chimera • Swiss-Prot • PSI-BLAST
+
+**Platforms:**  
+Linux • GitHub • Kaggle • Google Cloud • MATLAB
+
+</details>
+
+<details>
+<summary>🌱 <strong>What I'm Currently Learning</strong></summary>
+
+- 🧠 Protein-ligand binding affinity prediction
+- 🔬 Virtual screening pipelines for drug discovery
+- 🧫 AI-driven analysis of Next-Generation Sequencing (NGS)
+- 📊 Multi-omics data integration using ML
+</details>
+
+<details>
+<summary>🎤 <strong>Talks & Leadership</strong></summary>
+
+- 🎓 Vice President – *Green Youth Movement*, GCUF
+- ☮️ Executive Member – *Youth Peace & Development Corps*, GCUF
+- 🎯 Amal Academy Fellow – *Professional skills program funded by Stanford*
+- 🗣️ Speaker – *Climate Change & Minority Rights Awareness Events*
+</details>
+
+---
+
+### 📌 Pinned Repositories
+
+<!-- Replace repo names with your actual project repositories -->
+<a href="https://github.com/mahsanshoaib1/PRIORNET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahsanshoaib1&repo=PRIORNET&theme=default" />
+</a>
+<a href="https://github.com/mahsanshoaib1/Leishmania-Vaccine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahsanshoaib1&repo=Leishmania-Vaccine&theme=default" />
+</a>
+
+---
+
+### 📈 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahsanshoaib1&show_icons=true&count_private=true&theme=default" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanshoaib1&layout=compact&theme=default" width="48%"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### ⚡ Fun Fact  
+🧠 I’m obsessed with understanding consciousness through the lens of **neuroscience** and **AI**, and I love being outdoors as an **athlete**.
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanshoaib1&layout=compact&theme=default" height="150"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahsanshoaib1&show_icons=true&theme=default&hide=contribs&count_private=true" height="150"/>
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahsanshoaib1&theme=default" alt="GitHub Streak" />
 </p>
 
-<br><br><br><br><br><br><br>
-
 ---
 
-### 🎤 Talks & Leadership
-
-- Vice President, **Green Youth Movement**, GCUF Chapter  
-- Executive Member, **Youth Peace & Development Corps**  
-- Hosted seminars on *climate change*, *minority rights*, and *youth leadership*  
-- Graduate of **Amal Academy Career-Prep Fellowship** (2024)
-
----
-
-### 🌱 Currently Exploring
-
-- Protein-ligand binding affinity prediction  
-- AI integration with Next-Generation Sequencing (NGS)  
-- Virtual screening in drug discovery pipelines  
-- Advanced machine learning techniques for omics data
-
----
-
-### ⚡ Fun Fact
-When I'm not coding or analyzing data, I'm either reading about **neurobiology** or playing sports as an **athlete** 🏃‍♂️
-
+⭐️ *Feel free to fork this README and use it as inspiration!*
