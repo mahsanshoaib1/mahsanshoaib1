@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Muhammad Ahsan Shoaib</h1>
-<h3 align="center">Bioinformatician | AI Researcher | Drug Discovery Enthusiast</h3>
+<h1 align="center">👋 I'm Muhammad Ahsan Shoaib</h1>
+<h3 align="center"> Bioinformatician | AI Researcher | Drug Discovery Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahsanshoaib1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/muhammadahsanshoaib/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/mahsanshoaib"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://kaggle.com/mahsanshoaib"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/bioalgofrontiers"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
@@ -83,7 +82,11 @@ Linux • GitHub • Kaggle • Google Cloud • MATLAB
 
 ### 📌 Pinned Repositories
 
+No pinned Repository Yet!
+
 <!-- Replace repo names with your actual project repositories -->
+
+<!--
 <a href="https://github.com/mahsanshoaib1/PRIORNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahsanshoaib1&repo=PRIORNET&theme=default" />
 </a>
@@ -93,6 +96,7 @@ Linux • GitHub • Kaggle • Google Cloud • MATLAB
 
 ---
 
+
 ### 📈 GitHub Stats & Languages
 
 <p align="center">
@@ -101,6 +105,8 @@ Linux • GitHub • Kaggle • Google Cloud • MATLAB
 </p>
 
 ---
+
+
 
 ### ⚡ Fun Fact  
 🧠 I’m obsessed with understanding consciousness through the lens of **neuroscience** and **AI**, and I love being outdoors as an **athlete**.
@@ -114,3 +120,4 @@ Linux • GitHub • Kaggle • Google Cloud • MATLAB
 ---
 
 ⭐️ *Feel free to fork this README and use it as inspiration!*
+-->
