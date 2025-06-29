@@ -1,31 +1,104 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahsan Shoaib</h1>
-<h3 align="center">An AI expert and a great bioinformatician.</h3>
+<h1 align="center">👋 Hi, I'm Muhammad Ahsan Shoaib</h1>
+<h3 align="center">Aspiring Computational Biologist | AI Enthusiast | Drug Discovery Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsanshoaib1&label=Profile%20views&color=0e75b6&style=flat" alt="mahsanshoaib1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mahsanshoaib" target="blank"><img src="https://img.shields.io/twitter/follow/mahsanshoaib?logo=twitter&style=for-the-badge" alt="mahsanshoaib" /></a> </p>
-
-- 🌱 I’m currently learning **BioInformatics and Artificial Intelligence**
-
-- 💬 Ask me about **Machine learning, deep learning, and computational biology**
-
-- 📫 How to reach me **mahsanshoaib1@gmail.com**
-
-- ⚡ Fun fact **An athlete**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahsanshoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahsanshoaib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadahsanshoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadahsanshoaib" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22144358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22144358" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahsanshoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahsanshoaib" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bioalgofrontiers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bioalgofrontiers" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/fBTST2JZxt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/fBTST2JZxt" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahsanshoaib1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahsanshoaib1&show_icons=true&locale=en&layout=compact" alt="mahsanshoaib1" /></p>
+🎓 **Currently:**  
+Bachelor's student of **Bioinformatics & Artificial Intelligence** at *Government College University Faisalabad, Pakistan* (2019–2025).  
+Passionate about solving real-world biomedical problems through data-driven approaches.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahsanshoaib1&show_icons=true&locale=en" alt="mahsanshoaib1" /></p>
+💡 **Research Interests:**  
+Drug Discovery | Computational Biology | AI in Healthcare | Genomics & Transcriptomics | Multi-Omics Integration
+
+---
+
+### 🔬 Ongoing Projects & Research
+
+- 🧬 **Subunit Vaccine Design Against *Leishmania donovani***  
+  Designed a multi-epitope vaccine using reverse vaccinology approaches and immune simulation tools.
+
+- 🧠 **PRIORNET Framework**  
+  Developed a deep learning model integrating SNP prioritization and protein–protein interaction networks to improve genomic trait prediction.
+
+- 🔭 **Research Intern**  
+  Working at *Integrative Omics and Molecular Modeling Lab* (GCUF) — applying AI techniques to bioinformatics problems.
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="mailto:mahsanshoaib1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammadahsanshoaib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/mahsanshoaib" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://kaggle.com/mahsanshoaib" target="_blank"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle" /></a>
+  <a href="https://www.youtube.com/c/bioalgofrontiers" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3C5488?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AutoDock-1D2D50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyMOL-56B4E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IEDB-3165A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SwissProt-3D3D3D?style=for-the-badge" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanshoaib1&layout=compact&theme=default" height="150"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahsanshoaib1&show_icons=true&theme=default&hide=contribs&count_private=true" height="150"/>
+</p>
+
+<br><br><br><br><br><br><br>
+
+---
+
+### 🎤 Talks & Leadership
+
+- Vice President, **Green Youth Movement**, GCUF Chapter  
+- Executive Member, **Youth Peace & Development Corps**  
+- Hosted seminars on *climate change*, *minority rights*, and *youth leadership*  
+- Graduate of **Amal Academy Career-Prep Fellowship** (2024)
+
+---
+
+### 🌱 Currently Exploring
+
+- Protein-ligand binding affinity prediction  
+- AI integration with Next-Generation Sequencing (NGS)  
+- Virtual screening in drug discovery pipelines  
+- Advanced machine learning techniques for omics data
+
+---
+
+### ⚡ Fun Fact
+When I'm not coding or analyzing data, I'm either reading about **neurobiology** or playing sports as an **athlete** 🏃‍♂️
+
